@@ -17,5 +17,6 @@
 ```
 •cd Termux-Api
 •python api.py
+```
 # Install Apk Termux-Api Terlebih Dahulu
 • [Termux-Api](https://github.com/MrBarBar05/Termux-Api/blob/master/Apk/Termux-Api.apk)
